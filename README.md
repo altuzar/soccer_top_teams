@@ -8,7 +8,7 @@
 
 ## Example
 
-![Wave](https://github.com/altuzar/altuzar/blob/7cee95dad410050d9b5bf25060b535b4c865be60/wave.gif)
+![Screenshot](https://github.com/altuzar/soccer_top_teams/blob/c940400b216cc535ae0d332cba8e4d3f8a2fb7b6/screenshot.png)
 
 ## Overview
 
